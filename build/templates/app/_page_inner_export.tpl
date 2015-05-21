@@ -1,0 +1,1 @@
+<<%= type %> <%= processProps(props) %>><% if(children && children.length > 0) { _.forEach(children, function(child) { %><%= processChild(child) %><% } ); } else if(text && text.length > 0){ %><%= text %><%}%></<%= type %>>
