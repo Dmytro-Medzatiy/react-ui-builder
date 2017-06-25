@@ -60,7 +60,7 @@ Clone project you liked by specifying local folder where you want to see the sou
 This folder should exist and be empty.
 
 Cloning and preparing of the project will take some time. 
-Most time will be spend by npm installer, builder starts the installation of dependent npm modules automatically after project is downloaded.
+Most time will be spent by npm installer, builder starts the installation of dependent npm modules automatically after project is downloaded.
 
 Now you can compose components on page, consider page as a desk where you combine components with each other. 
 
