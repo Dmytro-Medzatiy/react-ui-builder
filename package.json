@@ -33,7 +33,7 @@
     "less": "^2.4.0",
     "less-loader": "^2.2.0",
     "raw-loader": "^0.5.1",
-    "react": "^0.13.3",
+    "react": "^0.14.9",
     "react-bootstrap": "^0.21.2",
     "reflux": "^0.2.7",
     "request": "^2.54.0",
